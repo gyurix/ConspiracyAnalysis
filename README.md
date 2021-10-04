@@ -22,8 +22,8 @@ understandable, than the first solution. However this solution requires a proper
 
 The measured runtimes on the VPS used for development with optimized postgresql settings were:
 
-**First solution:** 3 minutes, 20 seconds (~20% faster than the second solution)
-**Second solution:** 4 minutes, 10 seconds (~25% slower than the first solution)
+- **First solution:** 3 minutes, 20 seconds (~20% faster than the second solution)
+- **Second solution:** 4 minutes, 10 seconds (~25% slower than the first solution)
 
 ## Conclusion
 
